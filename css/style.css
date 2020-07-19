@@ -1,0 +1,30 @@
+header
+{
+	font-family: 'Shadows Into Light', cursive;
+}
+section
+{
+	font-family: 'Marck Script', cursive;
+}
+footer
+{
+	font-family: 'Special Elite', cursive;
+}
+.preview
+{
+	width: 100%;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+@media screen and (max-width: 400px){
+	.icon
+	{
+		height: 25%;
+		width: 25%;
+	}
+}
+.icon
+{
+	height: 15%;
+	width: 15%;
+}
